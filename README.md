@@ -13,11 +13,11 @@ get a,n inputs from the user
 define the formula step
 ### Step 4:
 print the result
-``
-##Developed by: DEVADARSHAN A S
-##RegisterNumber:212222110007
 ```
-## Program:
+Developed by: DEVADARSHAN A S
+RegisterNumber:212222110007
+```
+### Program:
 ```python
 #Program to circulate N values.
 def circulate():
