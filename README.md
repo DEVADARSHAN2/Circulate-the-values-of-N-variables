@@ -19,7 +19,7 @@ RegisterNumber:212222110007
 ```
 ### Program:
 ```python
-#Program to circulate N values.
+Program to circulate N values.
 def circulate():
     l=eval(input())
     n=int(input())
