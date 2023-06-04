@@ -14,8 +14,8 @@ define the formula step
 ### Step 4:
 print the result
 ``
-#Developed by: DEVADARSHAN A S
-#RegisterNumber:212222110007
+##Developed by: DEVADARSHAN A S
+##RegisterNumber:212222110007
 ```
 ## Program:
 ```python
